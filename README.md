@@ -33,7 +33,9 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
+
 ## PyPoll
+
 This code analyzes the votes and calculates results from data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
 
 First, import the OS and CSV module
@@ -67,10 +69,9 @@ Your analysis should look similar to the following:
 Election Results
 -------------------------
 Total Votes: 369711
--------------------------
+
 Charles Casper Stockham: 23.049% (85213)
 Diana DeGette: 73.812% (272892)
 Raymon Anthony Doane: 3.139% (11606)
--------------------------
+
 Winner: Diana DeGette
--------------------------
